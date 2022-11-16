@@ -3,7 +3,7 @@ import Layout from "../components/Layout";
 export default function Home() {
   return (
     <Layout>
-      <main>Anasayfa</main>
+      <main>Anasayfa2</main>
     </Layout>
   );
 }
