@@ -1,7 +1,7 @@
 export default function Home() {
   return (
     <div>
-      <main>BARIŞ SAFA GÜRLER</main>
+      <main>MUCUR MYO - WTK</main>
     </div>
   );
 }
